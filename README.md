@@ -12,6 +12,7 @@
  + [Licence](#licence)
  + [Authors Info](#author-Info)
  
+ 
  ## Description
  <p>This is  a website that shows my Portfolio/resume.It contains all my background information,some sample projects that I have worked on and the experience gained.</p>
  
@@ -33,6 +34,9 @@
  
  ## Reference
  * Plural Sight for CSS
+ 
+ ### Link to Github pages
+ *
  
  [Go Back to the top](#portfolio)
  
@@ -63,3 +67,5 @@
  [Go Back to the top](#portfolio)
  
  ## Authors Info
+
+ *Jidraph Kimachia Kanini
