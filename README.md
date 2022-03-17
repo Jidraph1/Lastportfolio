@@ -36,7 +36,8 @@
  * Plural Sight for CSS
  
  ### Link to Github pages
- *
+ 
+ *https://jidraph1.github.io/Lastportfolio/
  
  [Go Back to the top](#portfolio)
  
