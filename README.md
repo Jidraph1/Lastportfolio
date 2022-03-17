@@ -24,9 +24,7 @@
  
  * An access to the Internet
  
- ### Installation Process
  
- [Go Back to the top](#portfolio)
  ## Technology Used
  * HTML - which was used to build the structure of the pages.
  
@@ -39,13 +37,12 @@
  
  *https://jidraph1.github.io/Lastportfolio/
  
- [Go Back to the top](#portfolio)
  
  ## Licence
  
  MIT License
  
- Copyright (c) [2019] [Albert Byrone]
+ Copyright (c) [2019] [ Jidraph Kimachia]
  
  Permission is hereby granted, free of charge, to any person obtaining a copy
  of this software and associated documentation files (the "Software"), to deal
