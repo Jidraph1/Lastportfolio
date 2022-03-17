@@ -4,13 +4,17 @@ body {
     padding-left: 200px;
     padding-right: 200px;
     background-color: rgb(211, 235, 236);
-
 }
 .logo{
     text-decoration: none;
     list-style: none;
 }
-
+#img2{
+    float: left;
+    opacity: 0.9;
+    border-radius: 30px;
+    content: '\f89d';
+}
 nav{
     background-color: rgb(204, 226, 236);
     height: 90px;
